@@ -1,0 +1,1 @@
+{{ 'ID: ' . $singleEmail->id . ' Email: ' . $singleEmail->email }}
